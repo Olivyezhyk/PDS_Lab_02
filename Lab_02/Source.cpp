@@ -1,8 +1,7 @@
-#include <Windows.h>
 #include "Truth.h"
 using namespace std;
 
 int main() {
-    Truth truth = Truth();
+    Truth truth;
     return 0;
 }
